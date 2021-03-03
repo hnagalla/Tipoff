@@ -1,0 +1,272 @@
+{
+    "data": [
+        {
+            "id": 128027,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 39,
+            "period": 2,
+            "postseason": false,
+            "season": 2020,
+            "status": "2nd Qtr",
+            "time": "9:42",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 35
+        },
+        {
+            "id": 128025,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 0,
+            "period": 1,
+            "postseason": false,
+            "season": 2020,
+            "status": "1st Qtr",
+            "time": "",
+            "visitor_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "id": 128026,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 28,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 0,
+            "period": 0,
+            "postseason": false,
+            "season": 2020,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "id": 128021,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 0,
+            "period": 0,
+            "postseason": false,
+            "season": 2020,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "id": 128022,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 0,
+            "period": 0,
+            "postseason": false,
+            "season": 2020,
+            "status": "9:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "id": 128024,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 9,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 0,
+            "period": 0,
+            "postseason": false,
+            "season": 2020,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "id": 128023,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 0,
+            "period": 1,
+            "postseason": false,
+            "season": 2020,
+            "status": "1st Qtr",
+            "time": "",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "id": 128028,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 11,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 0,
+            "period": 0,
+            "postseason": false,
+            "season": 2020,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "id": 128029,
+            "date": "2021-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2020,
+            "status": "Final",
+            "time": "",
+            "visitor_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 100
+        }
+    ],
+    "meta": {
+        "total_pages": 1,
+        "current_page": 1,
+        "next_page": null,
+        "per_page": 25,
+        "total_count": 9
+    }
+}
